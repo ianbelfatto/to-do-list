@@ -42,12 +42,14 @@ button {
   font-family: "SF Mono";
 } */
 
-body {
+body,
+html {
   font-family: sans-serif;
   padding-top: 1em;
   padding-bottom: 1em;
+  padding-right: 1em;
   font-size: 1.5em;
-  width: 35%;
+  width: 70%;
   margin: 0 auto;
 }
 input,
